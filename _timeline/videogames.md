@@ -19,5 +19,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
-  - mame32
+  - Mame32
 ---
