@@ -14,5 +14,5 @@ slides:
   - math-blaster
   - minecraft-end-user
   - kinect
-  - mame32
+  - Mame32
 ---
